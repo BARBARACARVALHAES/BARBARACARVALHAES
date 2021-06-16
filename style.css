@@ -7,7 +7,7 @@ body {
 
 
 .banner {
-	background-image: url('./sites-de-compra.jpg');
+	background-image: url(sites-de-compra.jpg);
     /*background-size: cover;
     /*background-size: 500px 150px;*/
     /*background-size: 100%;*/
